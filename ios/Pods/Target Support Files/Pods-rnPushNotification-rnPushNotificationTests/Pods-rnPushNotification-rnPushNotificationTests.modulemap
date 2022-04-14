@@ -1,0 +1,6 @@
+module Pods_rnPushNotification_rnPushNotificationTests {
+  umbrella header "Pods-rnPushNotification-rnPushNotificationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
